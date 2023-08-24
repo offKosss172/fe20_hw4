@@ -6,7 +6,17 @@ button{
     height: 50px;
 }
 .card{
-    width: 300px;
+    width: 800px;
     background-color: beige;
     border: 1px solid black;
+    gap: 10px;
+}
+.card h2{
+    font-size: 20px;
+}
+.card-field{
+    width: 100%;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
 }
